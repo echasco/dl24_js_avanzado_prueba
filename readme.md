@@ -1,7 +1,7 @@
 # Prueba N°1 Eduardo Chasco
 
 ## Distribución del proyecto
-- Se crea un archivo prueba.js con la logica de los ejercicios.
+- Se crea un archivo prueba.js con la lógica de los ejercicios.
 - Para facilitar la revisión, se crea el archivo main.js que hace un llamado a las funciones de las clases.
 
 ## Dependencias
